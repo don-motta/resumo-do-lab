@@ -1,4 +1,4 @@
-# Relatório sobre Computação em Nuvem: Conceitos, Características, Produtos e Custos (com foco no AZ-900)
+# Resumo sobre Computação em Nuvem: Conceitos, Características, Produtos e Custos (com foco no AZ-900)
 A computação em nuvem revolucionou a forma como empresas e indivíduos acessam e utilizam recursos de tecnologia da informação (TI). Em vez de manter infraestruturas físicas complexas e dispendiosas, a nuvem oferece a capacidade de acessar serviços de computação – como poder de processamento, armazenamento, bancos de dados, software e redes – sob demanda, através da internet. Este relatório explora os conceitos básicos, características, produtos e tipos de custos da computação em nuvem, utilizando o exame AZ-900 (Microsoft Azure Fundamentals) como referência para ilustrar esses pontos.
 
 ## Conceitos Básicos da Computação em Nuvem
