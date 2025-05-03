@@ -11,7 +11,7 @@ Virtualização: Tecnologia que permite criar versões virtuais de recursos de h
 Data Centers: Instalações físicas seguras e altamente disponíveis onde os servidores e outros equipamentos de computação em nuvem estão localizados.
 Rede: A conectividade via internet é essencial para acessar os serviços de nuvem. A rede garante a comunicação entre os clientes e a infraestrutura do provedor.
 
-##Características Essenciais da Computação em Nuvem
+## Características Essenciais da Computação em Nuvem
 A computação em nuvem possui diversas características distintivas que a tornam atraente para usuários e organizações:
 
 Sob Demanda (On-demand Self-service): Os usuários podem provisionar recursos de computação (como servidores e armazenamento) de forma autônoma e em tempo real, sem a necessidade de interação humana com o provedor de serviços.
@@ -20,7 +20,7 @@ Pool de Recursos (Resource Pooling): Os recursos de computação do provedor sã
 Elasticidade Rápida (Rapid Elasticity): A capacidade de provisionar e liberar recursos de forma elástica, tanto para cima (escalar verticalmente ou horizontalmente) quanto para baixo, de acordo com a demanda. Isso oferece grande flexibilidade e otimiza custos.
 Serviço Medido (Measured Service): O uso dos recursos é monitorado, controlado e reportado, proporcionando transparência e permitindo que os clientes paguem apenas pelo que consomem.
 
-##Produtos e Serviços de Computação em Nuvem (Exemplos do Azure AZ-900)
+## Produtos e Serviços de Computação em Nuvem (Exemplos do Azure AZ-900)
 Os provedores de nuvem oferecem uma vasta gama de produtos e serviços categorizados em diferentes modelos de serviço:
 
 Infraestrutura como Serviço (IaaS): Fornece recursos computacionais fundamentais, como máquinas virtuais, armazenamento, redes e sistemas operacionais. O cliente tem controle sobre o sistema operacional, armazenamento e aplicações, mas não gerencia a infraestrutura física subjacente.
@@ -40,7 +40,7 @@ Exemplos no Azure: Azure Cosmos DB, Azure Database for PostgreSQL.
 Segurança: Serviços para proteger os recursos e dados na nuvem.
 Exemplos no Azure: Azure Security Center, Azure Sentinel.
 
-##Tipos de Custos na Computação em Nuvem
+## Tipos de Custos na Computação em Nuvem
 A estrutura de custos na computação em nuvem geralmente é baseada no modelo de pagamento por uso, mas pode variar dependendo do serviço e do provedor. Alguns dos tipos de custos mais comuns incluem:
 
 Computação: Custo das instâncias de máquinas virtuais ou da capacidade de processamento utilizada por outros serviços (como funções serverless). Geralmente cobrado por hora ou por segundo de uso.
