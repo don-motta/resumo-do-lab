@@ -1,1 +1,27 @@
-# resumo-do-lab
+graph LR
+    A[Computação em Nuvem] --> B(Compartilhamento de Recursos);
+    A --> C(Acesso via Internet);
+    B --> D[Pagamento por Uso];
+    A --> E(Características Essenciais);
+    E --> E1[Sob Demanda];
+    E --> E2[Amplo Acesso à Rede];
+    E --> E3[Pool de Recursos];
+    E --> E4[Elasticidade Rápida];
+    E --> E5[Serviço Medido];
+    A --> F(Modelos de Serviço);
+    F --> F1[IaaS (Infraestrutura como Serviço) - Ex: Máquinas Virtuais Azure];
+    F --> F2[PaaS (Plataforma como Serviço) - Ex: App Service Azure];
+    F --> F3[SaaS (Software como Serviço) - Ex: Microsoft 365];
+    A --> G(Outros Serviços);
+    G --> G1[Serverless (Ex: Azure Functions)];
+    G --> G2[AI/ML (Ex: Azure Machine Learning)];
+    G --> G3[Bancos de Dados (Ex: Azure SQL DB)];
+    A --> H(Tipos de Custos);
+    H --> H1[Computação (por uso)];
+    H --> H2[Armazenamento (por volume, acesso)];
+    H --> H3[Rede (egress)];
+    H --> H4[Bancos de Dados];
+    H --> H5[Largura de Banda];
+    H --> H6[Licenças];
+    I[AZ-900] --> J(Fundamentos Azure como Referência);
+    J --> K[Entendimento Conceitos e Serviços];
